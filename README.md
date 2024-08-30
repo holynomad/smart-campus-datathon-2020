@@ -1,4 +1,4 @@
-# 2020-smart-campus-datathon
+# smart-campus-datathon-2020
 I contributed kind of awesome experience using Python and R. (feat. 현구, 수환), 2020. 6. ~ 9.
 
 ## 소개
