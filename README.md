@@ -1,5 +1,5 @@
 # smart-campus-datathon-2020
-I contributed kind of awesome experience using Python and R. (feat. 현구, 수환), 2020. 6. ~ 9.
+contributed kind of awesome experience using Python and R. for 2020. 6. ~ 2020. 9.
 
 ## 소개
 https://data.korea.ac.kr/?page_id=3136
@@ -11,4 +11,5 @@ https://youtu.be/us9rilah-uc
 https://data.korea.ac.kr/?p=4694
 
 ## about SKUM (Safe KU Map)
+plz, check `README_TEAM6.txt`
 
